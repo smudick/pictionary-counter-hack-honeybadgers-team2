@@ -1,4 +1,3 @@
-
 # Pictionary Counter
 
 Purpose: The application allows individuals to keep track of score(s) while playing family Pictionary
